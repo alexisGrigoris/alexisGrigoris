@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexisGrigoris
-- 📚 I study Universal Design of ICT in Norway at "Oslo Metropolitan University". (Master's Degree)
+- 📚 I study Universal Design of ICT in Norway at "Oslo Metropolitan University".
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning React.
 - 🎮 My hobbies are video games, and playing football!
