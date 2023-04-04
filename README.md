@@ -1,3 +1,5 @@
+Some info about me!
+
 - 👋 Hi, I’m @alexisGrigoris
 - 📚 I have got my bachelor's degree in Computer Science at "SUNY Empire State University".
 - 📚 I am currently studying Universal Design of ICT in Norway at "Oslo Metropolitan University" for my Msc.
