@@ -9,7 +9,6 @@ Some info about me!
 - 🎮 My hobbies are football, boxing and playing video games.
 - 📫 How to reach me "alexisgrigoris@gmail.com".
 
-Vuejs React angular Docker github actions TypeScript redux ReactiveX GraphQL Sass git npm html5 Prettier MongoDB Nodejs Webpack
 
 <!---
 alexisGrigoris/alexisGrigoris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
