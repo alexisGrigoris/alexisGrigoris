@@ -1,12 +1,12 @@
 Some info about me!
 
 - 👋 Hi, I’m @alexisGrigoris!
-- 💼 I am currently working as a Junior Frontend developer and CMS Administrator at WinMasters in Athens, Greece.
-- 📚 I am currently studying Universal Design of ICT in Norway at "Oslo Metropolitan University" for my Msc.
+- 💼 I am currently working as a Developer and Monitoring & Automation Engineer at Halian.
+- 📚 I ave got my MSc Universal Design of ICT in Norway at "Oslo Metropolitan University" for my Msc.
 - 📚 I have got my BSc at "SUNY Empire State University".
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning The Frontend Developer Career Path on Scrimba.
-- 🎮 My hobbies are football, boxing and playing video games.
+- 🌱 I’m currently studying on Full Stack Open https://fullstackopen.com/en/.
+- 🎮 My hobbies are watching and playing football, watching movie series, and playing video games.
 - 📫 How to reach me "alexisgrigoris@gmail.com".
 
 
