@@ -1,8 +1,8 @@
 Some info about me!
 
 - 👋 Hi, I’m @alexisGrigoris!
-- 💼 I am currently working as a Developer and Monitoring & Automation Engineer at Halian.
-- 📚 I have got my MSc Universal Design of ICT in Norway at "Oslo Metropolitan University" for my Msc.
+- 💼 I am currently working as a Monitoring & Automation Engineer at Halian.
+- 📚 I have got my MSc Universal Design of ICT in Norway at "Oslo Metropolitan University".
 - 📚 I have got my BSc at "SUNY Empire State University".
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently studying on Full Stack Open https://fullstackopen.com/en/.
